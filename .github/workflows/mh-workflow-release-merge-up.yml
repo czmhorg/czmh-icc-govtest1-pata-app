@@ -1,4 +1,3 @@
-# GENEROVANO reconcile -- needitovat, prepise kazdy beh
 # zdroj: conf.d/workflows/release-merge-up.yml v gov repu czmhorg/czmh-icc-governance-repository (klic workflows projektu govtest1)
 
 # Šablona workflow governance (defs/defs.md: workflow repa). Po pushi do
